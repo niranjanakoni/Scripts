@@ -1,0 +1,2 @@
+FOLDER:/root/scripts
+USB_PATH:/tmp/backup/FOLDER
